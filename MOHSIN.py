@@ -41,8 +41,8 @@ def runtxt(z):
 
 def helpnote():
 	print("%s [*] FOLLOW ME ON Fb TU KNOW ABOUT UPDATES  :)"%(G))
-	subprocess.check_output(["am", "start", "https://github.com/R140N/approval.txt/blob/main/Ap.txt"])
-	exit(" [*] FACEBOOK :  MD NANU MIAH")
+	subprocess.check_output(["am", "start", "https://github.com/mlkjhgfdsaq1230/approval.txt/blob/main/Ap.txt"])
+	exit(" [*] FACEBOOK :  Raja Mohsin")
 
 
 def notice():
@@ -51,8 +51,8 @@ def notice():
 
 	runtxt("\n\033[0;91mYOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m  SENT THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN MESSENGER🔰R140N")
-	subprocess.check_output(["am", "start", "https://m.me/100011369036748"])
+	runtxt("\033[0;92m ADMIN Wa.me/+92 3125146881")
+	subprocess.check_output(["am", "start"Wa.me/+92 3125146881, "])
 
 def irfan():
 	
@@ -78,7 +78,7 @@ class Main:
 		self.cp = []
 		self.loop = 0
 		try:
-			plr = requests.get('https://github.com/R140N/approval.txt/blob/main/Ap.txt').text
+			plr = requests.get('https://github.com/mlkjhgfdsaq1230/approval.txt/blob/main/Ap.txt').text
 			if basesplit in plr:
 				key = basesplit
 				stat = ("\033[0;92mPREMIUM")
@@ -293,7 +293,7 @@ class Main:
 				print("%s EXAMPLE : %s123456,1234567,123456789"%(Y,G))
 				listpass = input("%s [?] ENTER PASSWORD :%s "%(Y,G))
 				if len(listpass)<=5:
-					exit("\n%s [!] PASSWORD MINIMUM 6 CHARACTERS"%(R))
+					exit("\n%s [!] PASSWORD MINIMUM 6 C onHARACTERS"%(R))
 				print("%s [*] CRACK WITH PASSWORD -> [\033[0;91m%s\033[0;93m]"%(Y,listpass))
 				print("\n%s [+] OK RESULTS SAVED IN -> ok.txt"%(G))
 				print("%s [+] CP RESULTS SAVED IN -> cp.txt"%(Y))
